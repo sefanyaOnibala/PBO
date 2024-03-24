@@ -10,8 +10,6 @@ public class App {
 
     public static void main(String[] args) throws IOException {
 
-        // ArrayList<RotiManis> RM = new ArrayList<>();
-
         while (true) {
             clearScreen();
             System.out.println("=================================================================");
